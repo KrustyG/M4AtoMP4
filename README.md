@@ -7,6 +7,7 @@ M4S Network Monitor is a browser extension that identifies and lists `.m4s` medi
 Follow these steps to install the extension from the `M4AtoMP4.rar` archive:
 
 ### Step 1: Extract the Archive
+- Download the `M4AtoMP4.rar` file listed above.
 - Locate the `M4AtoMP4.rar` file.
 - Use an extraction tool (such as **WinRAR**, **7-Zip**, or **The Unarchiver**) to extract the contents of `M4AtoMP4.rar`.
 - Extract it to a folder of your choice. This will give you a folder named `M4AtoMP4` or similar, containing the extension files (e.g., `manifest.json`, JavaScript files, etc.).
