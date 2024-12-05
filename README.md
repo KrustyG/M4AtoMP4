@@ -31,3 +31,5 @@ Follow these steps to install the extension from the `M4StoMP4.rar` archive:
 ### Troubleshooting
 - Make sure that all necessary files are present in the extracted folder (`manifest.json`, JavaScript files, HTML, etc.).
 - If you encounter issues, try re-extracting the `M4StoMP4.rar` file to ensure no files were corrupted during the extraction process.
+- You must come from a link to the video, not from a catagory
+- Previews only show up for SD videos
