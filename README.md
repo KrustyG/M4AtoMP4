@@ -42,7 +42,3 @@ By using the M4S Network Monitor extension, you consent to the limited functiona
 ### 6. Changes to This Policy
 
 We may update this privacy policy from time to time. We will indicate the "Last Updated" date at the top of the policy for your reference.
-
-### 7. Contact Us
-
-If you have any questions or concerns regarding this privacy policy, please contact us at: [Your Contact Email]
