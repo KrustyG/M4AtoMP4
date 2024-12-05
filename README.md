@@ -1,5 +1,5 @@
 # M4AtoMP4
-Monitors the network for .m4s files and displays their URLs using a preview image or as a link.
+M4S Network Monitor is a browser extension that identifies and lists `.m4s` media segments from streaming services. It helps users track `.m4s` files, displaying their URLs conveniently for download or conversion.
 
 
 ## Installing the M4S Network Monitor Extension
