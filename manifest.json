@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "M4S Network Monitor",
+  "version": "1.0",
+  "description": "Monitors the network for .m4s files and displays their URLs.",
+  "permissions": [
+    "webRequest",
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon128.png"
+    }
+  }
+}
