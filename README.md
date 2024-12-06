@@ -7,10 +7,10 @@ M4S Network Monitor is a browser extension that identifies and lists `.m4s` medi
 Follow these steps to install the extension from the `M4StoMP4.rar` archive:
 
 ### Step 1: Extract the Archive
-- Download the `M4StoMP4.rar` file listed above.
-- Locate the `M4StoMP4.rar` file.
-- Use an extraction tool (such as **WinRAR**, **7-Zip**, or **The Unarchiver**) to extract the contents of `M4StoMP4.rar`.
-- Extract it to a folder of your choice. This will give you a folder named `M4StoMP4` or similar, containing the extension files (e.g., `manifest.json`, JavaScript files, etc.).
+- Press the green Code button above, then press `Download Zip`
+- Locate the `M4StoMP4-main.zip` file.
+- Use an extraction tool (such as **WinRAR**, **7-Zip**, or **The Unarchiver**) to extract the contents of `M4StoMP4-main.zip`.
+- Extract it to a folder of your choice. This will give you a folder named `M4StoMP4-main` or similar, containing the extension files (e.g., `manifest.json`, JavaScript files, etc.).
 
 ### Step 2: Open Chrome or Opera Extensions Page
 - Open **Google Chrome or Opera**.
@@ -19,7 +19,7 @@ Follow these steps to install the extension from the `M4StoMP4.rar` archive:
 
 ### Step 3: Load the Unpacked Extension
 - Click the **Load unpacked** button that appears once Developer mode is enabled.
-- Navigate to the folder where you extracted `M4StoMP4.rar`.
+- Navigate to the folder where you extracted `M4StoMP4-main.zip`.
 - Select the folder that contains the extension files.
 
 ### Step 4: Confirm Installation
@@ -30,6 +30,6 @@ Follow these steps to install the extension from the `M4StoMP4.rar` archive:
 
 ### Troubleshooting
 - Make sure that all necessary files are present in the extracted folder (`manifest.json`, JavaScript files, HTML, etc.).
-- If you encounter issues, try re-extracting the `M4StoMP4.rar` file to ensure no files were corrupted during the extraction process.
+- If you encounter issues, try re-extracting the `M4StoMP4-main.zip` file to ensure no files were corrupted during the extraction process.
 - You must come from a link to the video, not from a catagory
 - Previews only show up for SD videos
